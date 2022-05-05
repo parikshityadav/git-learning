@@ -1,2 +1,3 @@
 # git-learning
-git learning repo
+git learning repo for initial project
+
